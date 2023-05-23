@@ -9,3 +9,6 @@ ls
 cat authorized_keys 
 :q
 exit
+ls /tmp/test 
+clear
+exit
