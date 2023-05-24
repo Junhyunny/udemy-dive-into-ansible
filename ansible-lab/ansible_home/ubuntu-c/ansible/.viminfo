@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1684904751,,"wq"
+|2,0,1684905892,,"wq"
 :q!
 |2,0,1684904491,,"q!"
 :Wq
@@ -66,36 +66,50 @@
 |3,0,36,0,1,0,1684904634,"u"
 
 # File marks:
-'0  23  40  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
-|4,48,23,40,1684904751,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
-'1  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
-|4,49,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+'0  26  23  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml
+|4,48,26,23,1684905892,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml"
+'1  23  40  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,49,23,40,1684904751,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 '2  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,50,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
-'3  29  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
-|4,51,29,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+'3  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,51,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 '4  29  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,52,29,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
-'5  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
-|4,53,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+'5  29  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,53,29,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 '6  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,54,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
-'7  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
-|4,55,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
-'8  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
-|4,56,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
-'9  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,57,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
+'7  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,55,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+'8  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,56,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+'9  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,57,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
 
 # Jumplist (newest first):
+-'  26  23  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml
+|4,39,26,23,1684905892,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml
+|4,39,1,0,1684905863,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml"
 -'  23  40  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,23,40,1684904751,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  23  40  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,23,40,1684904751,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,1,0,1684904658,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,1,0,1684904658,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  9  13  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,9,13,1684904635,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,1,0,1684904630,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,1,0,1684904630,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  29  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
@@ -104,6 +118,14 @@
 |4,39,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  29  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,29,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  22  32  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,22,32,1684904617,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
+|4,39,1,0,1684904567,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 |4,39,1,0,1684904567,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
@@ -122,6 +144,54 @@
 |4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
 |4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg
+|4,39,1,0,1684904491,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/ansible.cfg"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
 -'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
 |4,39,29,41,1684895701,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
 -'  29  41  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
@@ -186,110 +256,47 @@
 |4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
 -'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
 |4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  24  22  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,24,22,1684894435,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
--'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml
-|4,39,1,0,1684894346,"~/diveintoansible/Ansible Playbooks, Introduction/YAML/challenge/test.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml
+|4,39,1,0,1684895690,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/06/motd_playbook.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Variables/09/variables_playbook.yaml
+	*	1684905892	0
+	"	26	23
+	^	26	24
+	.	26	23
+	+	26	23
 
 > ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/challenge/motd_playbook.yaml
 	*	1684904750	0
