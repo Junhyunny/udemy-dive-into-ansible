@@ -1,7 +1,8 @@
 
-## Chapter013. Ansible Playbooks, Facts
+## Chapter013. Ansible Playbooks, Variables
 
-* 플레이북 내부에서 변수를 선언하여 사용
+* 플레이북 내부에 `vars` 하위에 변수를 선언하여 사용
+* 플레이북 내부에 `vars_files` 하위에 파일 이름을 선언하여 사용
 * 변수는 `-e` 옵션을 통해 플레이북 실행 시 전달 가능
 * `-e` 옵션을 사용해 파일 그대로 사용 가능
 * host_vars
