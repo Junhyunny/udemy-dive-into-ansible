@@ -267,3 +267,427 @@ ansible all -m fetch -a 'src=/tmp/test_moduls.txt dest=/tmp/' -o
 ansible all -m fetch -a 'src=/tmp/test_modules.txt dest=/tmp/' -o
 clear
 history
+cd diveintoansible/Ansible\ Playbooks\,\ Introduction/YAML/01
+ls
+cat show_yaml_python.sh 
+cat test.yaml 
+clear
+sh show_yaml_python.sh 
+clear
+cat test.yaml 
+cd ..
+cd 02
+ls
+sh show_yaml_python.sh 
+cat show_yaml_python.sh 
+cat test.yaml 
+cat show_yaml_python.sh 
+sh show_yaml_python.sh 
+cd ../03/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cat show_yaml_python.sh 
+cd ../04/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../05
+sh show_yaml_python.sh 
+cat show_yaml_python.sh 
+cat test.yaml 
+cd ../06/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../07/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../08/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../09/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../10
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+ls
+cd ../11/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../12/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../13/
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../14/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+ls
+cd ../15/
+cat test.yaml 
+sho show_yaml_python.sh 
+sh show_yaml_python.sh 
+cd ../16/
+ls
+cat test
+cd test.yaml 
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../17/
+cat test.yaml 
+sh show_yaml_python.sh 
+ls
+ls ..
+cd ../19/
+ls
+cd ..
+cd 18/
+ls
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ../19/
+cat test.yaml 
+sh show_yaml_python.sh 
+cd ..
+ls
+cd challenge/
+ls
+sh show_yaml_python.sh 
+cd ..
+cd template/
+ls
+cat test.yaml 
+cd ..
+cd template/m
+cd template/
+ls
+cat show_yaml_python.sh 
+cd ..
+cd challenge/
+cp ../template/test.yaml .
+ls
+vi test.yaml 
+sh show_yaml_python.sh 
+vi test.yaml 
+sh show_yaml_python.sh 
+vi test.yaml 
+sh show_yaml_python.sh 
+vi test.yaml 
+sh show_yaml_python.sh 
+cd ..
+cd Ansible\ Playbooks\,\ Introduction/Ansible\ Playbooks\,\ Breakdown\ of\ Sections/01
+ls
+cat motd_playbook.yaml 
+cd 02
+cd ../02
+ls
+clear
+ls
+cat ansible.cfg 
+cat hosts 
+cat centos_motd 
+cat motd_playbook.yaml 
+ansible run
+clear
+ansible-playbook motd_playbook.yaml 
+ssh root@centos1
+ssh ansible@centos1
+clear
+ls
+ssh ansible@centos1:2222
+ssh ansible@centos1
+clear
+ansible all -m ping -a
+ansible all -m ping
+ssh ls
+ssh ansible@centos1
+ssh ansible@centos2
+ls
+ansible-playbook motd_playbook.yaml 
+cat motd_playbook.yaml 
+ssh ansible@centos2
+cd ../03/
+ls
+cat ansible.cfg 
+cat centos_motd 
+ansible hosts 
+cat hosts 
+cat motd_playbook.yaml 
+time ansible-playbook motd_playbook.yaml 
+cat ../02/motd_playbook.yaml 
+cd ../04/
+ls
+cat motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+ssh ansible@centos2
+ssh ansible@centos3
+cd ../05/
+ls
+cat motd_playbook.yaml 
+ls
+ansible-playbook motd_playbook.yaml 
+ssh ansible@centos2
+ls
+cat motd_playbook.yaml 
+cat motd_playbook.yaml -e 'motd=Testing the motd section\n'
+ansible-playbook motd_playbook.yaml -e 'motd=Testing the motd section\n'
+cd ../06/
+ls
+cat motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+vi motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+ls
+cat motd_playbook.yaml 
+cd ../07
+ls
+cat motd_playbook.yaml 
+ansible-playbook  motd_playbook.yaml 
+ansible seupt
+ansible setup
+ansible all  setup
+ansible all  -i cenos setup
+ansible all  -i cenos2 setup
+clear
+ansible all -i centos2 -m setup
+ansible all -i centos2, -m setup
+clear
+ansible all -i centos2, -m setup | more
+clear
+ansible all -i ubunut1, -m setup | more
+ansible all -i ubuntu1, -m setup | more
+clear
+cat motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+cat motd_playbook.yaml 
+ansible all -m setup || grep ansible_distribution
+ansible all -m setup | grep ansible_distribution
+ls
+cd ..
+ls
+cd challenge/
+ls
+cat 60-ansible-motd 
+vi ansible.cfg
+ls
+cp ../07/ansible.cfg .
+cp ../07/hosts .
+ansible all ping -m
+ansible all -m ping
+cp ../07/motd_playbook.yaml 
+cp ../07/motd_playbook.yaml .
+ls
+cat motd_playbook.yaml 
+:q!
+vi motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+vi motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+vi motd_playbook.yaml 
+ansible-playbook motd_playbook.yaml 
+ㅏㄴ
+ls
+ansible ubuntu -m file -a '
+ansible ubuntu -m file -a 'path=/etc/update-motd.d/60-ansible-motd state=absent' -o
+clear
+cd ..
+ls
+cd ..
+ls
+cd Ansible\ Playbooks\,\ Variables/
+ls
+cd 01/
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd ../02/
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cat ../../Ansible\ Playbooks\,\ Breakdown\ of\ Sections/07
+cat ../../Ansible\ Playbooks\,\ Breakdown\ of\ Sections/07/motd_playbook.yaml 
+cd ..
+cd 03/
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd 04
+cd ../04/
+ls
+cat variables_playbook.yaml 
+ls
+cat variables_playbook.yaml 
+ls
+ansible-playbook variables_playbook.yaml 
+ls
+ansible-playbook variables_playbook.yaml 
+cd ../05/
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd ../06
+ls
+cat variables_playbook.yaml 
+cat external_vars.yaml 
+ansible-playbook variables_playbook.yaml 
+cat variables_playbook.yaml 
+clea
+clear
+cd ../07/
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd ../08/
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd ../09
+ls
+cat variables_playbook.yaml 
+ansible centos1 -m setup | grep ansible_hostname
+ansible centos1 -m setup | grep ansible_port
+ansible centos1 -m setup
+칟ㅁㄱ
+clear
+ansible centos1 -m setup
+ansible centos1 -m setup | grep ansible_port
+ansible-playbook variables_playbook.yaml 
+cat variables_playbook.yaml 
+vi variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+clear
+cat hosts 
+cd ../10/
+;ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml | grep ansible_port
+cd ../11/
+ls
+cat variables_playbook.yaml 
+ls
+ansible-playbook variables_playbook.yaml 
+cd ../12
+ls
+ansible-playbook variables_playbook.yaml 
+cd ../13/
+ls
+ansible-playbook variables_playbook.yaml 
+cd ../14/
+ls
+var
+cat variables_playbook.yaml 
+cat ../13/variables_playbook.yaml 
+cd ../15/
+ls
+cat variables_playbook.yaml 
+:q
+cat host_vars/centos1 
+ls ../14/
+ls ../13/
+ls 
+cd host_vars/
+ls
+cd ubuntu-c 
+cat ubuntu-c 
+:q!
+cat centos1 
+cd ..
+cd group_vars/
+ls
+cat centos 
+cd ..
+cd group_vars/ubuntu 
+cat group_vars/ubuntu 
+ls
+cat variables_playbook.yaml 
+ansible-playbook variables_playbook.yaml 
+cd ../16/
+ls
+cat variables_playbook.yaml 
+cd ../17
+ls
+cat variables_playbook.yaml 
+ls -al
+cat extra_vars_file.
+cat extra_vars_file.json 
+cat extra_vars_file.yaml 
+ansible-playbook variables_playbook.yaml -e extra_vars_ky="Hello World"
+ansible-playbook variables_playbook.yaml -e extra_vars_key="Hello World"
+ls
+var extra_vars_file.
+cat extra_vars_file.
+cat extra_vars_file.json 
+ansible-playbook -f
+ansible-playbook variables_playbook.yaml -e extra_vars_file.json 
+ansible-playbook variables_playbook.yaml -f extra_vars_file.
+ansible-playbook variables_playbook.yaml -f extra_vars_file.json 
+ansible-playbook variables_playbook.yaml -e @extra_vars_file.json 
+ansible-playbook variables_playbook.yaml -e @extra_vars_file.yaml
+cd ..
+ls
+cvi show_examples.sh '
+cat show_examples.sh 
+cd 17/
+ls
+cd host
+cd host_vars/
+ls
+cd ..
+ls
+cat ansible.cfg 
+cat host_vars/'
+cat host_vars/
+ls
+cd host_vars/
+ls
+cd ubuntu-c 
+cat ubuntu-c 
+cd ..
+ls
+cat hosts 
+clear
+cd ..
+cd Ansible\ Playbooks\,\ Facts/
+ls
+cd 01/
+ansible centos1 -m setup -a 'gather_subset=network' | more
+ansible centos1 -m setup -a 'gather_subset=!all,!min,network' | more
+ansible centos1 -m setup -a 'gather_subset=!all,!min,network' | wc -l
+ansible centos1 -m setup -a 'gather_subset=network' | wc -l
+ansible centos1 -m setup -a 'filter=ansible_memfree_mb'
+ansible centos1 -m setup -a 'filter=ansible_memfree*'
+ansible centos1 -m setup -a 'filter=ansible_mem*'
+clear
+cat facts_playbook.yaml 
+ansible-playbook facts_playbook.yaml 
+clear
+cd ../02/
+ls
+cd templates/
+ls
+cat getdate1.fact 
+cat getdate2.fact 
+date
+cd ..
+ls
+cat ansible.cfg 
+cd facts_playbook.yaml 
+ls
+cat facts_playbook.yaml 
+cat group_vars/centos 
+cat group_vars/ubuntu 
+cat host_vars/centos1 
+cat host_vars/ubuntu-c 
+clear
+./templates/getdate2.fact 
+./templates/getdate1.fact 
